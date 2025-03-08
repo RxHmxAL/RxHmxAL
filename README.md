@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RxHmxAL
+- 👋 Hi, I’m Alfian
 - 👀 I’m interested in Python Language
 - 🌱 I’m currently learning Python
-- 📫 How to reach me t.me/XinTact
+- 📫 How to reach me t.me/mytziezz
 
 <!---
 RxHmxAL/RxHmxAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
